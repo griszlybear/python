@@ -1,6 +1,6 @@
 print("Hello World")
 
-msg = "Hello World"
+message = "Hello World"
 name = "Carl"
 name1 = "Buchoy"
 
